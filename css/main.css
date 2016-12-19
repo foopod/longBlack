@@ -1,14 +1,14 @@
 /*neutral*/
 * {
-	font-family: 'karla', sans-serif;
+	font-family: 'Karla', sans-serif;
 }.footer,
 .header {
-	background: #1B1B1B;
+	background: #A28782;
 	color: white;
 }
 .ctas-button {
-	color: #1B1B1B;
-}@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+	color: #A28782;
+}@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa|Karla:400,700');
 *,
 *:before,
 *:after {
@@ -17,9 +17,11 @@
 }
 body {
   -webkit-font-smoothing: antialiased;
+     
 }
 /*text*/
 .heading {
+    
   font-weight: 100;
   font-size: 50px;
   line-height: 68px;
@@ -59,6 +61,7 @@ p.paragraph {
   font-size: 30px;
   line-height: 30px;
   font-weight: 900;
+    font-family: 'Aref Ruqaa', serif;
 }
 @media (max-width: 420px) {
   .logo {
@@ -182,6 +185,7 @@ p.paragraph {
 	text-decoration: none;
 }.socialproof {
 	padding: 90px 0;
+    background-color: #C2BAB6
 }.ctas-button,
 .ctas-button-2 {
 	display: inline-block;
