@@ -6,6 +6,9 @@
 	background: #A28782;
 	color: white;
 }
+img{
+    width:600px;
+}
 .ctas-button {
 	color: #A28782;
 }@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa|Karla:400,700');
@@ -185,7 +188,8 @@ p.paragraph {
 	text-decoration: none;
 }.socialproof {
 	padding: 90px 0;
-    background-color: #C2BAB6
+    background-color: #C2BAB6;
+    color: white;
 }.ctas-button,
 .ctas-button-2 {
 	display: inline-block;
@@ -267,6 +271,9 @@ p.paragraph {
 	color: black
 }
 @media (max-width: 750px) {
+    img{
+        width:300px;
+    }
   .feature3 .emoji {
     font-size: 40px;
   }
